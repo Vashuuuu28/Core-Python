@@ -13,7 +13,7 @@ list2 = [1, 14, 17, 11, 61, 21, 32, 87]
 # list.sort()
 # print(max(list))
 # print(min(list))
-# print(list)
+print(list)
 
 
 # print(list[2:5])
