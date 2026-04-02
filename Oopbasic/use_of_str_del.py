@@ -1,4 +1,3 @@
-
 class Person:
     def __init__(self, name, age):
         self.name = name
@@ -23,4 +22,4 @@ print(p1)
 # Delete the object explicitly (triggers the __del__ method)
 # del person
 
-# The destructor message will be printed when the object is destroyed
+# The destructor message will be printed
