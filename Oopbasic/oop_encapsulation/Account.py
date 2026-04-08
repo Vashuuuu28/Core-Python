@@ -4,7 +4,7 @@ class Account:
         self.__accountType = None
         self.__balance = 0.0
 
-    # Getter and Setter for number
+    # Getter and Setter for number       
     def get_number(self):
         return self.__number
 
@@ -34,3 +34,6 @@ a.set_balance(1000)
 print("Account Number:", a.get_number())
 print("Account Type:", a.get_account_type())
 print("Balance:", a.get_balance())
+
+
+

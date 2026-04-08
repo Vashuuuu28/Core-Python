@@ -22,4 +22,3 @@ print(p1)
 # Delete the object explicitly (triggers the __del__ method)
 # del person
 
-# The destructor message will be printed
