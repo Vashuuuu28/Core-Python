@@ -29,7 +29,7 @@ class rectangle(shape):
            self.width = w
 
       def getwidth(self):
-           return self.width
+          return self.width
 
 
 r = rectangle()
@@ -43,3 +43,37 @@ print("length is ",r.getlength())
 print("width is ",r.getwidth())
 print("color is ",r.getcolor())
 print("border width is ", r.getborderwidth())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
